@@ -1,0 +1,200 @@
+body {
+	background: lightgray;
+	margin-top: 55px;
+	min-height: 100vh;
+	position: relative;
+	flex-wrap: wrap;
+	display: flex;
+}
+
+.style-nav {
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.navegacion {
+	margin-left: 35%;
+}
+
+#home, #we_are, #concerts {
+	font-family: 'Abel', Verdana, sans-serif;
+	font-size: 16px;
+}
+
+.thumbnail {
+	margin: 65px 5px -25px 5px;
+	background: darkgray;
+	cursor: pointer;
+}
+
+.post {
+	width: 100%;
+	height: 100%;
+	padding: 10px;
+}
+
+#li {
+	padding-right: 30px;
+	display: inline-block;
+}
+
+footer {
+	margin-top: 50px;
+	margin-bottom: 0px;
+	color: white;
+	padding-bottom: 10px;
+	background-color: #303030;
+}
+
+.footer_abajo {
+	position: relative;
+	bottom: 0;
+	align-self: flex-end;
+	width: 100%;
+	clear: both;
+}
+
+.copyright {
+	margin-top: 17px;
+}
+
+.lista_copyright {
+	margin-bottom: 0px;
+	list-style: none;
+}
+
+.pais {
+	width: 100%;
+}
+
+.credits {
+	color: white;
+	text-decoration: none;
+}
+
+.credits:hover {
+	color: white;
+}
+
+.main {
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	width: 100%;
+	margin: 0px;
+}
+
+.mainer {
+	font-size: 16px;
+}
+
+#videos {
+	margin-top: 20px;
+	align-self: center;
+	justify-content: center;
+	align-items: center;
+}
+
+.preloader {
+  width: 70px;
+  height: 70px;
+  border: 10px solid #eee;
+  border-top: 10px solid #666;
+  border-radius: 50%;
+  animation-name: girar;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@keyframes girar {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.img {
+	width: 100%;
+}
+
+.title_desc {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	text-align: center;
+}
+
+.desc {
+	font-family: 'Abel', sans-serif;
+	font-size: 10px;
+	font-weight: 100;
+	font-style: oblique;
+	text-align: center;
+}
+
+/* Modificaciones BootStrap */
+
+.row {
+	margin-top: 0px;
+}
+
+/* Area de Detalles */
+
+#details {
+	margin-bottom: 0px;
+	padding: 100px 75px 100px 75px;
+}
+
+/* Area de Contacto */
+
+#contact {
+	margin-bottom: 10px;
+	padding: 40px 15px 10px 15px;
+	text-align: center;
+	float: left;
+	display: block;
+}
+
+.we_are {
+	padding-left: 5rem;
+}
+
+/* Area de Redes Sociales */
+
+#redes_sociales {
+	margin-bottom: 10px;
+	padding-top: 30px;
+	text-align: center;
+	float: left;
+	display: block;
+}
+
+#redes_sociales .facebook, .twitter, .youtube {
+	display: inline-block;
+	font-style:27px;
+	font-size: 29px;
+	width: 52px;
+	height: 50px;
+	font-line:20px;
+	border-radius: 50%;
+	color: #fff;
+	padding: 5px;
+}
+
+#redes_sociales .facebook:hover {
+	color: #2b416f;
+}
+
+#redes_sociales .twitter:hover {
+	color: #3f82b1;
+}
+
+#redes_sociales .youtube:hover {
+	color: #9e1a1a;
+}
+
+#redes_sociales .facebook { background: #3B5998; margin: 15px 30px 15px 10px; }
+#redes_sociales .twitter { background: #55ACEE; margin: 15px 30px 15px 10px; }
+#redes_sociales .youtube { background: #FF2B2B; margin: 15px 30px 15px 10px; }
