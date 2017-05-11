@@ -10,8 +10,7 @@
 	<link rel="stylesheet" href="styles.css">
 	<link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700" rel="stylesheet"> 
 	<link href="https://fonts.googleapis.com/css?family=Abel:100,300,400,500,700" rel="stylesheet">  
-	<script type="text/javascript" src="js/jquery.js"></script>
-
+	<script src="js/jquery.js"></script>
 	<!-- JavaScript -->
 
 	<script>
@@ -52,7 +51,7 @@
 						$("#videos").html("<div class='jumbotron col-md-12'><center><div class='preloader'></div></center></div>");
 					},
 					method: "GET",
-					url: "about_me_404.php",
+					url: "about_me.php",
 					success: function(data){
 						$("#videos").html(data);
 						$("#videos").css("margin-top: 70px;");
@@ -67,7 +66,7 @@
 				$("#details").hide();
 				$(".main").hide();
 				$("#videos").hide();
-				$("#videos").load("conciertos.php center");
+				//$("#videos").load("conciertos.php center");
 
 				$.ajax({
 
@@ -100,7 +99,7 @@
 <body>
 
 <header class="col-md-12">
-	<nav class="navbar navbar-default navbar-fixed-top style-nav">
+	<nav class="navbar navbar-inverse navbar-fixed-top style-nav">
 		<div class="container-fluid">
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-1">
@@ -166,14 +165,19 @@
 	<div class="container jumbotron" id="videos"><br>    <!-- Vídeos de Presentación -->
 		<center><h2 class="title_videos">Nuestros vídeos</h2></center>
 		<section class="row">
-			<div class="col-xs-12 col-sm-6 col-md-6">
+			<div class="col-xs-12 col-sm-6 col-md-6 video-container">
 				<div class="thumbnail">
-					<video class="post" src="res/video1.mp4" controls="true"></video>
+					<video class="post" controls="true" preload poster="res/poster_1.png">
+						<source type="video/mp4" src="res/videos/video_1.mp4">
+					</video>
 				</div>
 			</div>
-			<div class="col-xs-12 col-sm-6 col-md-6">
+
+			<div class="col-xs-12 col-sm-6 col-md-6 video-container">
 				<div class="thumbnail">
-					<video class="post" src="res/video2.mp4" controls="true"></video>
+					<video class="post" controls="true" preload poster="res/poster_2.png">
+						<source type="video/mp4" src="res/videos/video_2.mp4">
+					</video>
 				</div>
 			</div>
 		</section>

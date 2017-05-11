@@ -8,8 +8,10 @@ body {
 }
 
 .style-nav {
+	background-color: #303030;
 	padding-top: 3px;
 	padding-bottom: 3px;
+	border-bottom: #303030;
 }
 
 .navegacion {
@@ -19,6 +21,19 @@ body {
 #home, #we_are, #concerts {
 	font-family: 'Abel', Verdana, sans-serif;
 	font-size: 16px;
+	color: gray;
+}
+
+#home :hover {
+	color: lightgray;
+}
+
+#we_are :hover {
+	color: lightgray;
+}
+
+#concerts :hover {
+	color: lightgray;
 }
 
 .thumbnail {
@@ -94,6 +109,25 @@ footer {
 	align-self: center;
 	justify-content: center;
 	align-items: center;
+}
+
+#video-container {
+	transition: 1.7s ease;
+	-moz-transition: 1.7s ease;
+	-webkit-transition: 1.7s ease;
+	-o-transition: 1.7s ease;
+}
+
+#video-container :hover {
+	transform: scale(1.1);
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	-o-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+}
+
+.view {
+	width: 100%;
 }
 
 .preloader {
