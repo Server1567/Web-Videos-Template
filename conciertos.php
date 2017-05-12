@@ -11,59 +11,29 @@
 		<section class="row">
 			<div class="col-xs-12 col-sm-6 col-md-3" id="video-container">
 				<div class="thumbnail">
-					<video class="post video" controls="true" preload poster="res/poster_1-png">
-						<source src="res/videos/video_1.mp4" type="video/mp4">
+					<video class="post video" controls="true" preload poster="res/poster_1.png">
+						<source src="res/videos/video_1.mp4" type="video/mp4" class="src">
 					</video>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-3" id="video-container">
 				<div class="thumbnail">
-					<video class="post video" controls="true" preload poster="res/poster_2-png">
-						<source src="res/videos/video_2.mp4" type="video/mp4">
+					<video class="post video" controls="true" preload poster="res/poster_2.png">
+						<source src="res/videos/video_2.mp4" type="video/mp4" class="src">
 					</video>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-3" id="video-container">
 				<div class="thumbnail">
-					<video class="post video" controls="true" preload poster="res/poster_1-png">
-						<source src="res/videos/video_3.mp4" type="video/mp4">
+					<video class="post video" controls="true" preload poster="res/poster_1.png">
+						<source src="res/videos/video_3.mp4" type="video/mp4" class="src">
 					</video>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-3" id="video-container">
 				<div class="thumbnail">
-					<video class="post video" controls="true" preload poster="res/poster_2-png">
-						<source src="res/videos/video_4.mp4" type="video/mp4">
-					</video>
-				</div>
-			</div>
-		</section>
-		<section class="row">
-			<div class="col-xs-12 col-sm-6 col-md-3" id="video-container">
-				<div class="thumbnail">
-					<video class="post video" controls="true" preload poster="res/poster_1-png">
-						<source src="res/videos/video_1.mp4" type="video/mp4">
-					</video>
-				</div>
-			</div>
-			<div class="col-xs-12 col-sm-6 col-md-3" id="video-container">
-				<div class="thumbnail">
-					<video class="post video" controls="true" preload poster="res/poster_2-png">
-						<source src="res/videos/video_2.mp4" type="video/mp4">
-					</video>
-				</div>
-			</div>
-			<div class="col-xs-12 col-sm-6 col-md-3" id="video-container">
-				<div class="thumbnail">
-					<video class="post video" controls="true" preload poster="res/poster_1-png">
-						<source src="res/videos/video_3.mp4" type="video/mp4">
-					</video>
-				</div>
-			</div>
-			<div class="col-xs-12 col-sm-6 col-md-3" id="video-container">
-				<div class="thumbnail">
-					<video class="post video" controls="true" preload poster="res/poster_2-png">
-						<source src="res/videos/video_4.mp4" type="video/mp4">
+					<video class="post video" controls="true" preload poster="res/poster_2.png">
+						<source src="res/videos/video_4.mp4" type="video/mp4" class="src">
 					</video>
 				</div>
 			</div>
@@ -71,29 +41,59 @@
 		<section class="row">
 			<div class="col-xs-12 col-sm-6 col-md-3" id="video-container">
 				<div class="thumbnail">
-					<video class="post video" controls="true" preload poster="res/poster_1-png">
-						<source src="res/videos/video_1.mp4" type="video/mp4">
+					<video class="post video" controls="true" preload poster="res/poster_1.png">
+						<source src="res/videos/video_1.mp4" type="video/mp4" class="src">
 					</video>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-3" id="video-container">
 				<div class="thumbnail">
-					<video class="post video" controls="true" preload poster="res/poster_2-png">
-						<source src="res/videos/video_2.mp4" type="video/mp4">
+					<video class="post video" controls="true" preload poster="res/poster_2.png">
+						<source src="res/videos/video_2.mp4" type="video/mp4" class="src">
 					</video>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-3" id="video-container">
 				<div class="thumbnail">
-					<video class="post video" controls="true" preload poster="res/poster_1-png">
-						<source src="res/videos/video_3.mp4" type="video/mp4">
+					<video class="post video" controls="true" preload poster="res/poster_1.png">
+						<source src="res/videos/video_3.mp4" type="video/mp4" class="src">
 					</video>
 				</div>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-3" id="video-container">
 				<div class="thumbnail">
-					<video class="post video" controls="true" preload poster="res/poster_2-png">
-						<source src="res/videos/video_4.mp4" type="video/mp4">
+					<video class="post video" controls="true" preload poster="res/poster_2.png">
+						<source src="res/videos/video_4.mp4" type="video/mp4" class="src">
+					</video>
+				</div>
+			</div>
+		</section>
+		<section class="row">
+			<div class="col-xs-12 col-sm-6 col-md-3" id="video-container">
+				<div class="thumbnail">
+					<video class="post video" controls="true" preload poster="res/poster_1.png">
+						<source src="res/videos/video_1.mp4" type="video/mp4" class="src">
+					</video>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-3" id="video-container">
+				<div class="thumbnail">
+					<video class="post video" controls="true" preload poster="res/poster_2.png">
+						<source src="res/videos/video_2.mp4" type="video/mp4" class="src">
+					</video>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-3" id="video-container">
+				<div class="thumbnail">
+					<video class="post video" controls="true" preload poster="res/poster_1.png">
+						<source src="res/videos/video_3.mp4" type="video/mp4" class="src">
+					</video>
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-3" id="video-container">
+				<div class="thumbnail">
+					<video class="post video" controls="true" preload poster="res/poster_2.png">
+						<source src="res/videos/video_4.mp4" type="video/mp4" class="src">
 					</video>
 				</div>
 			</div>
@@ -103,7 +103,9 @@
 		
 		$(document).ready(function(){			
 			$(".video").click(function(){
-				$("#view").attr("class", "view col-md-12 active");
+				var attr = $("video source:first-child").attr("src");
+				//$("#view").attr("class", "view col-md-12 active");
+				console.log(attr);
 			});
 		});
 

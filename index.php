@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 	<title>Coral Comunity</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-	<link rel="stylesheet" href="text/css" href="css/animate.css">
+	<link rel="stylesheet" typr="text/css" href="css/animate.css">
 	<link href="https://production.cdmycdn.com/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 	<link rel="stylesheet" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="styles.css">
@@ -144,7 +144,7 @@
 					<img src="res/carousel1.jpg" class="img-responsive img">
 					<div class="carousel-caption">
 						<h3 class="hidden-xs hidden-sm">Bienvenido a Coral Comunity!</h3>
-						<h6 class="hidden-md hidden-lg">Bienvenido a Coral Comunity!</h6>
+						<h4 class="hidden-md hidden-lg">Bienvenido a Coral Comunity!</h4>
 						<p class="hidden-xs">Donde puedes escuhar nuestras fabulosas canciones.</p>
 					</div>
 				</div>
@@ -152,7 +152,7 @@
 					<img src="res/carousel2.jpg" class="img-responsive img">
 					<div class="carousel-caption">
 						<h3 class="hidden-xs hidden-sm">Mas que una banda, somos Salvavidas</h3>
-						<h6 class="hidden-md hidden-lg">Mas que una banda, somos Salvavidas</h6>
+						<h4 class="hidden-md hidden-lg">Mas que una banda, somos Salvavidas</h4>
 						<p class="hidden-xs">Nuestras canciones te llevan a oír la vida.</p>
 					</div>
 				</div>
@@ -160,7 +160,7 @@
 					<img src="res/carousel3.jpg" class="img-responsive img">
 					<div class="carousel-caption">
 						<h3 class="hidden-xs hidden-sm">Primero en Rep.Dom. y después en el Mundo</h3>
-						<h6 class="hidden-md hidden-lg">Primero en Rep.Dom. y después en el Mundo</h6>
+						<h4 class="hidden-md hidden-lg">Primero en Rep.Dom. y después en el Mndo</h4>
 						<p class="hidden-xs">Cada Lugar que vamos nos abre nuevas puertas.</p>
 					</div>
 				</div>
