@@ -6,6 +6,7 @@
 	<title>Coral Comunity</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="text/css" href="css/animate.css">
+	<link href="https://production.cdmycdn.com/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 	<link rel="stylesheet" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="styles.css">
 	<link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700" rel="stylesheet"> 
@@ -112,7 +113,7 @@
 			</div>
 			<div class="collapse navbar-collapse" id="navbar-1">
 				<ul class="nav navbar-nav col-md-12 col-sm-12 navegacion">
-					<li id="home"><a href="#">Home</a></li>
+					<li id="home"><a href="#">Inicio</a></li>
 					<li id="we_are"><a href="#">Quienes somos</a></li>
 					<li id="concerts"><a href="#">Conciertos</a></li>
 				</ul>
@@ -122,6 +123,13 @@
 </header>
 
 <section class="main">
+		<fiv class="jumbotron susesor col-xs-12 hidden-sm hidden-md hidden-lg">
+			<h2>Bienvenido a Coral Comunity!</h2>
+			<h4>"Más que un Coro, una Hermandad"</h4>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, perspiciatis, reprehenderit, fuga enim quibusdam commodi expedita soluta voluptatibus quia atque nostrum dicta. Praesentium quaerat quam facere, rerum exercitationem vero sint.
+			</p>
+		</fiv>
 		<div id="carousel" class="carousel slide hidden-xs" data-ride="carousel" role="presentation">
 			<!-- Indicators -->
 			<ol class="carousel-indicators">
@@ -141,7 +149,7 @@
 					</div>
 				</div>
 				<div class="item">
-					<img src="res/carousel1.jpg" class="img-responsive img">
+					<img src="res/carousel2.jpg" class="img-responsive img">
 					<div class="carousel-caption">
 						<h3 class="hidden-xs hidden-sm">Mas que una banda, somos Salvavidas</h3>
 						<h6 class="hidden-md hidden-lg">Mas que una banda, somos Salvavidas</h6>
@@ -149,7 +157,7 @@
 					</div>
 				</div>
 				<div class="item">
-					<img src="res/carousel1.jpg" class="img-responsive img">
+					<img src="res/carousel3.jpg" class="img-responsive img">
 					<div class="carousel-caption">
 						<h3 class="hidden-xs hidden-sm">Primero en Rep.Dom. y después en el Mundo</h3>
 						<h6 class="hidden-md hidden-lg">Primero en Rep.Dom. y después en el Mundo</h6>
@@ -168,7 +176,7 @@
 			<div class="col-xs-12 col-sm-6 col-md-6 video-container">
 				<div class="thumbnail">
 					<video class="post" controls="true" preload poster="res/poster_1.png">
-						<source type="video/mp4" src="res/videos/video_1.mp4">
+						<source type="video/mp4" src="res/videos/video_3.mp4">
 					</video>
 				</div>
 			</div>
@@ -176,7 +184,7 @@
 			<div class="col-xs-12 col-sm-6 col-md-6 video-container">
 				<div class="thumbnail">
 					<video class="post" controls="true" preload poster="res/poster_2.png">
-						<source type="video/mp4" src="res/videos/video_2.mp4">
+						<source type="video/mp4" src="res/videos/video_4.mp4">
 					</video>
 				</div>
 			</div>
