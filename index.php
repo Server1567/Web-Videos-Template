@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 	
-	<meta name="description" content="El Coro Acción Comunitaria nació como el coro oficial de la parroquia San Rafael Arcángel de la comunidad 24 de abril el dia 29 de septiembre de 2010, fue fundado por el profesor Luis A. De la Cruz Martínez (Richard).">
+	<meta name="description" content="El Coro Acción Comunitaria nació como el coro oficial de la parroquia San Rafael Arcángel de la comunidad 24 de abril.">
 
 	<!-- META TAGS -->
 
