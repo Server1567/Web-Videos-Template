@@ -1,8 +1,14 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+	<!-- META TAGS -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	
+	<meta name="description" content="El Coro Acción Comunitaria nació como el coro oficial de la parroquia San Rafael Arcángel de la comunidad 24 de abril el dia 29 de septiembre de 2010, fue fundado por el profesor Luis A. De la Cruz Martínez (Richard).">
+
+	<!-- META TAGS -->
+
 	<title>Coral Comunity</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" typr="text/css" href="css/animate.css">
@@ -12,6 +18,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700" rel="stylesheet"> 
 	<link href="https://fonts.googleapis.com/css?family=Abel:100,300,400,500,700" rel="stylesheet">  
 	<script src="js/jquery.js"></script>
+
 	<!-- JavaScript -->
 
 	<script>
@@ -123,13 +130,13 @@
 </header>
 
 <section class="main">
-		<fiv class="jumbotron susesor col-xs-12 hidden-sm hidden-md hidden-lg">
+		<div class="jumbotron susesor col-xs-12 hidden-sm hidden-md hidden-lg">
 			<h2>Bienvenido a Coral Comunity!</h2>
 			<h4>"Más que un Coro, una Hermandad"</h4>
 			<p>
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, perspiciatis, reprehenderit, fuga enim quibusdam commodi expedita soluta voluptatibus quia atque nostrum dicta. Praesentium quaerat quam facere, rerum exercitationem vero sint.
 			</p>
-		</fiv>
+		</div>
 		<div id="carousel" class="carousel slide hidden-xs" data-ride="carousel" role="presentation">
 			<!-- Indicators -->
 			<ol class="carousel-indicators">
