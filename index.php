@@ -122,7 +122,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-
+				<a class="navbar-brand hidden-sm hidden-md hidden-lg" href="#">Coral Comunity</a>
 			</div>
 			<div class="collapse navbar-collapse" id="navbar-1">
 				<ul class="nav navbar-nav col-md-12 col-sm-12 navegacion">
@@ -140,7 +140,7 @@
 			<h2>Bienvenido a Coral Community!</h2>
 			<h4>"Más que un Coro, una Hermandad"</h4>
 			<p>
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, perspiciatis, reprehenderit, fuga enim quibusdam commodi expedita soluta voluptatibus quia atque nostrum dicta. Praesentium quaerat quam facere, rerum exercitationem vero sint.
+				El Coro Acción Comunitaria nació como el coro oficial de la parroquia San Rafael Arcángel de la comunidad 24 de abril el dia 29 de septiembre de 2010, fue fundado por el profesor Luis A. De la Cruz Martínez (Richard).
 			</p>
 		</div>
 		<div id="carousel" class="carousel slide hidden-xs" data-ride="carousel" role="presentation">
