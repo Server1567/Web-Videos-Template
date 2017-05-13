@@ -5,14 +5,13 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 	
-	<meta name="Description" content="Apple leads the world in innovation with iPhone, iPad, Mac, Apple Watch, iOS, macOS, watchOS, and more. Visit the site to learn, buy, and get support." />
-	<meta property="og:title" content="Apple" />
-	<meta property="og:description" content="Apple leads the world in innovation with iPhone, iPad, Mac, Apple Watch, iOS, macOS, watchOS, and more. Visit the site to learn, buy, and get support." />
-	<meta property="og:url" content="https://www.apple.com/" />
-	<meta property="og:locale" content="en_US" />
-	<meta property="og:image" content="https://www.apple.com/ac/structured-data/images/open_graph_logo.png?201703170823" />
+	<meta name="Description" content="El Coro Acción Comunitaria nació como el coro oficial de la parroquia San Rafael Arcángel de la comunidad 24 de abril." />
+	<meta property="og:title" content="Coral Community" />
+	<meta property="og:description" content="El Coro Acción Comunitaria nació como el coro oficial de la parroquia San Rafael Arcángel de la comunidad 24 de abril." />
+	<meta property="og:url" content="https://coralcomunity.herokuapp.com/" />
+	<meta property="og:image" content="res/carousel1.jpg" />
 	<meta property="og:type" content="website" />
-	<meta property="og:site_name" content="Apple" />
+	<meta property="og:site_name" content="Coral Community" />
 
 	<!-- META TAGS -->
 

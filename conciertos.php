@@ -1,9 +1,16 @@
 	<div class="row">
-		<div id="view" class="view col-md-12 hidden">
+		<div id="view" class="view col-md-12 hide">
 			<video class="post" controls="true" id="videoView" preload>
 				<source src="res/videos/video_1.mp4" type="video/mp4">
 			</video>
 		</div>	
+	</div>
+
+	<div class="alert alert-warning alert-dismissible hide" role="alert" id="alert">
+		<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+			<span aria-hidden="true">&times;</span>
+		</button>
+		<strong>Working!</strong> Actualmente estamos trabajando en mejorar esta parte.
 	</div>
 
 	<center><h2 class="title_videos">Nuestros vídeos</h2></center>
@@ -106,6 +113,10 @@
 				var attr = $("video source:first-child").attr("src");
 				//$("#view").attr("class", "view col-md-12 active");
 				console.log(attr);
+
+				var alert = document.getElementById("alert");
+
+				alert.setAttribute("class", "alert alert-warning alert-dismissible");
 			});
 		});
 
