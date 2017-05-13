@@ -5,11 +5,18 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 	
-	<meta name="description" content="El Coro Acción Comunitaria nació como el coro oficial de la parroquia San Rafael Arcángel de la comunidad 24 de abril.">
+	<meta name="Description" content="Apple leads the world in innovation with iPhone, iPad, Mac, Apple Watch, iOS, macOS, watchOS, and more. Visit the site to learn, buy, and get support." />
+	<meta property="og:title" content="Apple" />
+	<meta property="og:description" content="Apple leads the world in innovation with iPhone, iPad, Mac, Apple Watch, iOS, macOS, watchOS, and more. Visit the site to learn, buy, and get support." />
+	<meta property="og:url" content="https://www.apple.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:image" content="https://www.apple.com/ac/structured-data/images/open_graph_logo.png?201703170823" />
+	<meta property="og:type" content="website" />
+	<meta property="og:site_name" content="Apple" />
 
 	<!-- META TAGS -->
 
-	<title>Coral Comunity</title>
+	<title>Coral Community</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" typr="text/css" href="css/animate.css">
 	<link href="https://production.cdmycdn.com/favicon.ico" rel="shortcut icon" type="image/x-icon" />
@@ -131,7 +138,7 @@
 
 <section class="main">
 		<div class="jumbotron susesor col-xs-12 hidden-sm hidden-md hidden-lg">
-			<h2>Bienvenido a Coral Comunity!</h2>
+			<h2>Bienvenido a Coral Community!</h2>
 			<h4>"Más que un Coro, una Hermandad"</h4>
 			<p>
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, perspiciatis, reprehenderit, fuga enim quibusdam commodi expedita soluta voluptatibus quia atque nostrum dicta. Praesentium quaerat quam facere, rerum exercitationem vero sint.
@@ -150,8 +157,8 @@
 				<div class="item active">
 					<img src="res/carousel1.jpg" class="img-responsive img">
 					<div class="carousel-caption">
-						<h3 class="hidden-xs hidden-sm">Bienvenido a Coral Comunity!</h3>
-						<h4 class="hidden-md hidden-lg">Bienvenido a Coral Comunity!</h4>
+						<h3 class="hidden-xs hidden-sm">Bienvenido a Coral Community!</h3>
+						<h4 class="hidden-md hidden-lg">Bienvenido a Coral Community!</h4>
 						<p class="hidden-xs">Donde puedes escuhar nuestras fabulosas canciones.</p>
 					</div>
 				</div>
@@ -254,7 +261,7 @@
 				<div class="col-md-12">
 					<ul class="lista_copyright">
 						<li id="li">
-							<h5 class="copyright">Coral Comunity © 2017.&nbsp;&nbsp;&nbsp;&nbsp; Todos los derechos reservados.</h5>
+							<h5 class="copyright">Coral Community © 2017.&nbsp;&nbsp;&nbsp;&nbsp; Todos los derechos reservados.</h5>
 						</li>
 						<li id="li"><a href="#" class="credits we_are">Quienes Somos</a></li>
 						<li id="li"><a href="#" class="credits concerts">Conciertos</a></li>
