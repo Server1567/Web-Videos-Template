@@ -4,7 +4,7 @@
 
 	<h4 style="float: right; font-family: arial"><em>Fundado el 29 de septiembre de 2010</em></h4>
 <br><br><br>
-	<img src="res/imagen1.jpeg" alt="" style="width: 100%"><br><br><br>
+	<img src="res/img_about/imagen1.jpeg" alt="" style="width: 100%"><br><br><br>
 	<p>
 		El Coro Acción Comunitaria(Coral Comunity) nació como el coro oficial de la parroquia San Rafael Arcángel de la comunidad 24 de abril el dia 29 de septiembre de 2010, fue fundado por el profesor Luis A. De la Cruz Martínez (Richard).Para ese entonces su propósito era la exaltación y adoración a Dios y llevar a la comunidad el mensaje de evangelización a través de sus canciones, teniendo como apoyo al reverendo padre Joselito Beltré.
 	</p>
@@ -39,7 +39,7 @@
 		Los días 18 y 19 de junio de 2016 realizó dos conciertos en el municipio de Río San Juan de la provincia María Trinidad Sánchez en conmemoración de sus fiestas patronales presentándose allá en varias parroquias y en hogares de destacadas personalidades como lo es el compositor Juan Eddy Paulino; ese mismo año en Sánchez Samaná fue parte de la celebración de la acostumbrada actividad "Sancheros Ausentes", en donde ofreció un concierto.
 	</p>
 	<br>
-	<img src="res/imagen2.jpeg" alt="" style="width: 100%">
+	<img src="res/img_about/imagen2.jpeg" alt="" style="width: 100%">
 	<br>
 	<br>
 	<br>

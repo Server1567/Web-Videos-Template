@@ -13,7 +13,8 @@
 	<link href="https://production.cdmycdn.com/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 	<link rel="stylesheet" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="styles.css">
-	<link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Abel:100,300,400,500,700" rel="stylesheet">  
 	<script src="js/jquery.js"></script>
 
@@ -91,6 +92,7 @@
 						$("#videos").css("margin-top: 70px;");
 						$("#videos").attr("class", "container-fluid jumbotron col-md-12");
 						$("#videos").fadeIn(500);
+						window.alert("Todos los vídeos repetitivos son sólo para relleno.");
 					},
 					timeout: 10000
 				});
@@ -179,20 +181,20 @@
 		<section class="row">
 			<div class="col-xs-12 col-sm-6 col-md-6 video-container">
 				<div class="thumbnail">
-					<video class="post" controls="true" preload poster="res/poster_1.png">
+					<video class="post" controls="true" preload poster="res/poster_3.jpg">
 						<source type="video/mp4" src="res/videos/video_3.mp4">
 					</video>
 				</div><br>
-				<h4 class="title-video"><strong>Titulo de la música</strong></h4>
+				<h4 class="title-video">Dan Dan Kokoro Hikareteku | Concert</h4>
 			</div>
 
 			<div class="col-xs-12 col-sm-6 col-md-6 video-container">
 				<div class="thumbnail">
-					<video class="post" controls="true" preload poster="res/poster_2.png">
+					<video class="post" controls="true" preload poster="res/poster_4.jpg">
 						<source type="video/mp4" src="res/videos/video_4.mp4">
 					</video>
 				</div><br>
-				<h4 class="title-video"><strong>Titulo de la música</strong></h4>
+				<h4 class="title-video">UNRAVEL - Tokyo Ghoul | Metal Cover</h4>
 			</div>
 		</section>
 
