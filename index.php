@@ -7,7 +7,7 @@
 
 	<!-- META TAGS -->
 
-	<title>Coral Community</title>
+	<title>Coral Comunity</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" typr="text/css" href="css/animate.css">
 	<link href="https://production.cdmycdn.com/favicon.ico" rel="shortcut icon" type="image/x-icon" />
@@ -128,7 +128,7 @@
 
 <section class="main">
 		<div class="jumbotron susesor col-xs-12 hidden-sm hidden-md hidden-lg">
-			<h2>Bienvenido a Coral Community!</h2>
+			<h2>Bienvenido a Coral Comunity!</h2>
 			<h4>"Más que un Coro, una Hermandad"</h4>
 			<p>
 				El Coro Acción Comunitaria nació como el coro oficial de la parroquia San Rafael Arcángel de la comunidad 24 de abril el dia 29 de septiembre de 2010, fue fundado por el profesor Luis A. De la Cruz Martínez (Richard).
@@ -147,8 +147,8 @@
 				<div class="item active">
 					<img src="res/carousel1.jpg" class="img-responsive img">
 					<div class="carousel-caption">
-						<h3 class="hidden-xs hidden-sm">Bienvenido a Coral Community!</h3>
-						<h4 class="hidden-md hidden-lg">Bienvenido a Coral Community!</h4>
+						<h3 class="hidden-xs hidden-sm">Bienvenido a Coral Comunity!</h3>
+						<h4 class="hidden-md hidden-lg">Bienvenido a Coral Comunity!</h4>
 						<p class="hidden-xs">Donde puedes escuhar nuestras fabulosas canciones.</p>
 					</div>
 				</div>
@@ -253,7 +253,7 @@
 				<div class="col-md-12">
 					<ul class="lista_copyright">
 						<li id="li">
-							<h5 class="copyright">Coral Community © 2017.&nbsp;&nbsp;&nbsp;&nbsp; Todos los derechos reservados.</h5>
+							<h5 class="copyright">Coral Comunity © 2017.&nbsp;&nbsp;&nbsp;&nbsp; Todos los derechos reservados.</h5>
 						</li>
 						<li id="li"><a href="#" class="credits we_are">Quienes Somos</a></li>
 						<li id="li"><a href="#" class="credits concerts">Conciertos</a></li>

@@ -93,6 +93,10 @@
 				$("#view").attr("class", "view col-md-12 active");
 				$("#view #videoView").attr("autoplay", "true");
 				$("#view #videoView").attr("src", attr);
+
+				$("html, body").animate({
+					scrollTop: $("header").offset().top
+				}, 1000);
 			});
 			
 			$(".title-video").click(function(){
@@ -100,6 +104,10 @@
 				$("#view").attr("class", "view col-md-12 active");
 				$("#view #videoView").attr("autoplay", "true");
 				$("#view #videoView").attr("src", attr);
+
+				$("html, body").animate({
+					scrollTop: $("header").offset().top
+				}, 1000);
 			});
 		});
 

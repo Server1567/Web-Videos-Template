@@ -6,7 +6,7 @@
 <br><br><br>
 	<img src="res/imagen1.jpeg" alt="" style="width: 100%"><br><br><br>
 	<p>
-		El Coro Acción Comunitaria nació como el coro oficial de la parroquia San Rafael Arcángel de la comunidad 24 de abril el dia 29 de septiembre de 2010, fue fundado por el profesor Luis A. De la Cruz Martínez (Richard).Para ese entonces su propósito era la exaltación y adoración a Dios y llevar a la comunidad el mensaje de evangelización a través de sus canciones, teniendo como apoyo al reverendo padre Joselito Beltré.
+		El Coro Acción Comunitaria(Coral Comunity) nació como el coro oficial de la parroquia San Rafael Arcángel de la comunidad 24 de abril el dia 29 de septiembre de 2010, fue fundado por el profesor Luis A. De la Cruz Martínez (Richard).Para ese entonces su propósito era la exaltación y adoración a Dios y llevar a la comunidad el mensaje de evangelización a través de sus canciones, teniendo como apoyo al reverendo padre Joselito Beltré.
 	</p>
 	<p>
 		El coro ha cantado en varias parroquias de la provincia de Santo Domingo y el Distrito Nacional incluyendo La Catedral Primada de América, en el 2011 participó en el "Festival de Los Coros" realizado en el Parque Colón en conmemoración del Jubileo de los 500 años de la evangelización de Santo Domingo.El 1ro. de octubre de 2011 celebró su primer aniversario con un concierto titulado "Este Es El Día" donde fue invitado el coro Voces de San Martin de la Parroquia San Ignacio de Loyola del sector La Ciénaga.
