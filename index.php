@@ -72,7 +72,6 @@
 				$("#details").hide();
 				$(".main").hide();
 				$("#videos").hide();
-				//$("#videos").load("conciertos.php center");
 
 				$.ajax({
 
@@ -183,7 +182,8 @@
 					<video class="post" controls="true" preload poster="res/poster_1.png">
 						<source type="video/mp4" src="res/videos/video_3.mp4">
 					</video>
-				</div>
+				</div><br>
+				<h4 class="title-video"><strong>Titulo de la música</strong></h4>
 			</div>
 
 			<div class="col-xs-12 col-sm-6 col-md-6 video-container">
@@ -191,7 +191,8 @@
 					<video class="post" controls="true" preload poster="res/poster_2.png">
 						<source type="video/mp4" src="res/videos/video_4.mp4">
 					</video>
-				</div>
+				</div><br>
+				<h4 class="title-video"><strong>Titulo de la música</strong></h4>
 			</div>
 		</section>
 
