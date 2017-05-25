@@ -27,6 +27,10 @@
 							  "margin-left": "auto",
 							  "margin-right": "auto"});
 
+			$("#suggestion").click(function(){	// SUGGESTION
+				$(this).fadeOut(500);
+			});
+
 			$("#home").click(function(){        // HOME
 				$("#videos").hide();
 
@@ -110,6 +114,9 @@
 </head>
 <body>
 
+	<div class="suggestion hidden-md hidden-lg" id="suggestion" role="suggestion">
+		<h3 class="sug-text">Este sitio se ve más espectacular desde un Ordenador, inténtalo.</h3>
+	</div>
 <header class="col-md-12">
 	<nav class="navbar navbar-inverse navbar-fixed-top style-nav">
 		<div class="container-fluid">
@@ -218,11 +225,11 @@
 			<div class="col-md-4">
 				<h3 class="title_desc">Lorem ipsum dolor sit amet.</h3>
 				<p class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, suscipit et cumque dignissimos maiores, fugit harum quibusdam modi delectus reiciendis!</p>
-			</div>
+			</div><br class="hidden-md hidden-lg">
 			<div class="col-md-4">
 				<h3 class="title_desc">Lorem ipsum dolor sit amet.</h3>
 				<p class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, fuga, laborum! Aspernatur ullam quasi delectus. Quae illo sed, assumenda recusandae.</p>
-			</div>
+			</div><br class="hidden-md hidden-lg">
 			<div class="col-md-4">
 				<h3 class="title_desc">Lorem ipsum dolor sit amet.</h3>
 				<p class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat explicabo debitis unde dicta itaque blanditiis consequuntur non neque mollitia necessitatibus.</p>
