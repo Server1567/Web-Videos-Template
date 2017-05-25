@@ -22,6 +22,11 @@
 
 	<script>
 		$(document).ready(function(){
+
+			$(".update").css({"width": "auto",				// START
+							  "margin-left": "auto",
+							  "margin-right": "auto"});
+
 			$("#home").click(function(){        // HOME
 				$("#videos").hide();
 
@@ -31,9 +36,9 @@
 				$.get("videos_home.php", function(data){
 				  	$("#videos").html(data);
 
-						$(".update").css({"width": "auto",
-										  "margin-left": "auto",
-										  "margin-right": "auto"});
+					$(".update").css({"width": "auto",
+									  "margin-left": "auto",
+									  "margin-right": "auto"});
 
 				  	$("#videos").css("margin-top: 20px;");
 				  	$("#videos").attr("class", "container jumbotron");
