@@ -161,25 +161,25 @@
 				<div class="item active">
 					<img src="res/carousel1.jpg" class="img-responsive img">
 					<div class="carousel-caption">
-						<h3 class="hidden-xs hidden-sm">Bienvenido a Coral Comunity!</h3>
-						<h4 class="hidden-md hidden-lg">Bienvenido a Coral Comunity!</h4>
-						<p class="hidden-xs">Donde puedes escuhar nuestras fabulosas canciones.</p>
+						<h3 class="hidden-xs hidden-sm caption-title">Coral Comunity</h3>
+						<h4 class="hidden-md hidden-lg caption-title">Coral Comunity</h4>
+						<p class="hidden-xs caption-desc">Donde puedes ver nuestras videos musicales.</p>
 					</div>
 				</div>
 				<div class="item">
 					<img src="res/carousel2.jpg" class="img-responsive img">
 					<div class="carousel-caption">
-						<h3 class="hidden-xs hidden-sm">Mas que una banda, somos Salvavidas</h3>
-						<h4 class="hidden-md hidden-lg">Mas que una banda, somos Salvavidas</h4>
-						<p class="hidden-xs">Nuestras canciones te llevan a oír la vida.</p>
+						<h3 class="hidden-xs hidden-sm caption">Mas que un coro, una Hermandad</h3>
+						<h4 class="hidden-md hidden-lg caption">Mas que un coro, una Hermandad</h4>
+						<p class="hidden-xs caption-desc">Hermanos que llevan su música al oído de todos.</p>
 					</div>
 				</div>
 				<div class="item">
 					<img src="res/carousel3.jpg" class="img-responsive img">
-					<div class="carousel-caption">
-						<h3 class="hidden-xs hidden-sm">Primero en Rep.Dom. y después en el Mundo</h3>
-						<h4 class="hidden-md hidden-lg">Primero en Rep.Dom. y después en el Mndo</h4>
-						<p class="hidden-xs">Cada Lugar que vamos nos abre nuevas puertas.</p>
+					<div class="carousel-caption caption-extended">
+						<h3 class="hidden-xs hidden-sm caption">Primero en RD y después en el Mundo</h3>
+						<h4 class="hidden-md hidden-lg caption">Primero en RD y después en el Mundo</h4>
+						<p class="hidden-xs caption-desc">Cada Lugar que vamos nos abre nuevos caminos.</p>
 					</div>
 				</div>
 			</div>
@@ -248,18 +248,18 @@
 			<div class="row">
 				<section class="col-xs-12 col-sm-5 col-md-5" id="contact">
 					<h2>Contáctanos atraves de</h2>
-					<p><strong>Correo Electrónico: </strong>correo@dominio.com</p>
+					<p><strong>Correo Electrónico: </strong>coroaccioncomunitaria@gmail.com</p>
 					<p class="pais"><strong>Teléfono: &nbsp;</strong>
-						<img src="res/bandera.png">&nbsp;+1(809)-621-4603
+						<img src="res/bandera.png">&nbsp;+1(809)-789-2666
 					</p>
 
 				</section>
 
 				<section class="col-xs-12 col-sm-7 col-md-7" id="redes_sociales">
 					<h2>Redes Sociales</h2>
-					<a href="#" class="facebook"><span class="fa fa-facebook"></span></a>
+					<a href="https://www.facebook.com/Coro-Acci%C3%B3n-Comunitaria-176007809578359/" class="facebook"><span class="fa fa-facebook"></span></a>
 					<a href="#" class="twitter"><span class="fa fa-twitter"></span></a>
-					<a href="#" class="youtube"><span class="fa fa-youtube"></span></a>
+					<a href="#" class="instagram"><span class="fa fa-instagram"></span></a>
 
 				</section>
 			</div>

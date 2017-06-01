@@ -194,6 +194,43 @@ footer {
 	margin-top: 0px;
 }
 
+@media screen and (min-width: 768px){
+	div.carousel-caption {
+		right: 0%;
+		left: 27%;
+		top: 12%;
+		padding-bottom: 30px;
+		width: 73%;
+	}
+	div.caption-extended {
+		right: 0%;
+		left: 22%;
+		top: 12%;
+		padding-bottom: 30px;
+		width: 78%;
+	}	
+}
+
+.caption {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	font-size: 50px;
+	width: 100%;
+}
+
+.caption-title {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	font-size: 60px;
+	width: 100%;
+}
+
+p.caption-desc {
+	font-family: 'Roboto', Verdana, sans-serif;
+	font-weight: 300;
+	font-size: 19px;
+}
+
 /* Area de Detalles */
 
 #details {
@@ -246,7 +283,7 @@ footer {
 	display: block;
 }
 
-#redes_sociales .facebook, .twitter, .youtube {
+#redes_sociales .facebook, .twitter, .instagram {
 	display: inline-block;
 	font-style:27px;
 	font-size: 29px;
@@ -266,10 +303,13 @@ footer {
 	color: #3f82b1;
 }
 
-#redes_sociales .youtube:hover {
-	color: #9e1a1a;
+#redes_sociales .instagram:hover {
+	color: purple;
 }
 
 #redes_sociales .facebook { background: #3B5998; margin: 15px 30px 15px 10px; }
 #redes_sociales .twitter { background: #55ACEE; margin: 15px 30px 15px 10px; }
-#redes_sociales .youtube { background: #FF2B2B; margin: 15px 30px 15px 10px; }
+#redes_sociales .instagram { 
+	background: linear-gradient(60deg, #3051F1 10%, #C92BB7 60%);
+	margin: 15px 30px 15px 10px; 
+}
