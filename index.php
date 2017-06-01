@@ -223,16 +223,16 @@
 	<section class="jumbotron col-md-12" id="details">
 		<div class="row">
 			<div class="col-md-4">
-				<h3 class="title_desc">Lorem ipsum dolor sit amet.</h3>
-				<p class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, suscipit et cumque dignissimos maiores, fugit harum quibusdam modi delectus reiciendis!</p>
+				<h3 class="title_desc">Reproduce nuestros vídeos</h3>
+				<p class="desc">Nuestros conciertos lo guardamos en la sección conciertos para que puedas verlos y compartirlos con tus amigos, además que nos verás sin pagar entradas y ¡todo desde tu Ordenador!</p>
 			</div><br class="hidden-md hidden-lg">
 			<div class="col-md-4">
-				<h3 class="title_desc">Lorem ipsum dolor sit amet.</h3>
-				<p class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, fuga, laborum! Aspernatur ullam quasi delectus. Quae illo sed, assumenda recusandae.</p>
+				<h3 class="title_desc">Cantando de un lugar a otro</h3>
+				<p class="desc">Ya que somos invitados a cantar en todos lados, como Iglesias y Teatros, vamos y demostramos quienes somos ante el mundo. Somos voces exparciendo música a oído de muchos.</p>
 			</div><br class="hidden-md hidden-lg">
 			<div class="col-md-4">
-				<h3 class="title_desc">Lorem ipsum dolor sit amet.</h3>
-				<p class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat explicabo debitis unde dicta itaque blanditiis consequuntur non neque mollitia necessitatibus.</p>
+				<h3 class="title_desc">25 voces y un coordinador con una misión</h3>
+				<p class="desc">Más que un coro, una Hermandad, Más que una Hermandad, 25 voces con un propósito cantando por el mundo y nuestro coordinador. En nuestra sección Quienes somos sabrás más de Nosotros.</p>
 			</div>
 		</div>
 	</section>
