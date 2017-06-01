@@ -223,15 +223,18 @@
 	<section class="jumbotron col-md-12" id="details">
 		<div class="row">
 			<div class="col-md-4">
+				<img src="res/img-desc/img-desc-1.png" class="img-responsive img-desc" alt="img-desc-1">
 				<h3 class="title_desc">Reproduce nuestros vídeos</h3>
 				<p class="desc">Nuestros conciertos lo guardamos en la sección conciertos para que puedas verlos y compartirlos con tus amigos, además que nos verás sin pagar entradas y ¡todo desde tu Ordenador!</p>
 			</div><br class="hidden-md hidden-lg">
 			<div class="col-md-4">
+				<img src="res/img-desc/img-desc-2.png" class="img-responsive img-desc" alt="img-desc-2">
 				<h3 class="title_desc">Cantando de un lugar a otro</h3>
 				<p class="desc">Ya que somos invitados a cantar en todos lados, como Iglesias y Teatros, vamos y demostramos quienes somos ante el mundo. Somos voces exparciendo música a oído de muchos.</p>
 			</div><br class="hidden-md hidden-lg">
 			<div class="col-md-4">
-				<h3 class="title_desc">25 voces y un coordinador con una misión</h3>
+				<img src="res/img-desc/img-desc-3.png" class="img-responsive img-desc" alt="img-desc-3">
+				<h3 class="title_desc">25 voces con una misión</h3>
 				<p class="desc">Más que un coro, una Hermandad, Más que una Hermandad, 25 voces con un propósito cantando por el mundo y nuestro coordinador. En nuestra sección Quienes somos sabrás más de Nosotros.</p>
 			</div>
 		</div>

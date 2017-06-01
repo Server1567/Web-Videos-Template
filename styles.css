@@ -238,6 +238,12 @@ p.caption-desc {
 	padding: 100px 75px 100px 75px;
 }
 
+.img-desc {
+	position: relative;
+	margin: 0px auto;
+	clear: both;
+}
+
 .suggestion {
 	width: 100%;
 	background: #0275d8;
