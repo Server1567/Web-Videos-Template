@@ -1,8 +1,8 @@
 <?php 
 
-	$host = "localhost";
-	$user = "root";
-	$pass = "server1503";
-	$db = "coral_comunity";
+	$host = "sql3.freesqldatabase.com";
+	$user = "sql3181449";
+	$pass = "IBPhbHxKJw";
+	$db = "sql3181449";
 
 ?>
